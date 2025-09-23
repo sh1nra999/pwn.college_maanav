@@ -4,7 +4,7 @@
 
 ### Objective : Learned about the case sensitivity of Linux commands.
 
-Flag: `pwn.college{YcQ0nEGSt4OP_EvV4bmJrqLnMFE.QX3YjM1wCO3EzNzEzW}`
+Flag : `pwn.college{YcQ0nEGSt4OP_EvV4bmJrqLnMFE.QX3YjM1wCO3EzNzEzW}`
 
 ```
 hello
@@ -12,9 +12,9 @@ hello
 
 ## Challenge : Intro to Arguments
 
-### Objective: Learning about the differences in commands and arguments passed to the command line interface (shell).
+### Objective : Learning about the differences in commands and arguments passed to the command line interface (shell).
 
-Flag: `pwn.college{8BHovhBpwvSfqL_32dR0FjBlAiq.QX4YjM1wCO3EzNzEzW}`
+Flag : `pwn.college{8BHovhBpwvSfqL_32dR0FjBlAiq.QX4YjM1wCO3EzNzEzW}`
 
 ```
 hello hackers
